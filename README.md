@@ -1,3 +1,5 @@
+
+https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
 # local-rag-example
 Build your own ChatPDF and run them locally
 
